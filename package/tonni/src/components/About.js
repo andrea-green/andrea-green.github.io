@@ -7,7 +7,7 @@ const About = () => {
             <div className="left">
               <div className="left_inner">
                 <div className="year">
-                  <h3>1000</h3>
+                  <h3 style={{fontSize:"200px"}}>1000</h3>
                   <span className="rounded">
                     <img src="img/about/flower.png" alt="" />
                   </span>
@@ -37,7 +37,7 @@ const About = () => {
 
                 </p>
               </div>
-              <div className="dodo_progress">
+              {/* <div className="dodo_progress">
                 <ul>
                   <li>
                     <div className="list_inner">
@@ -101,7 +101,7 @@ const About = () => {
                     </div>
                   </li>
                 </ul>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
