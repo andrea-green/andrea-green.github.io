@@ -31,8 +31,8 @@ const About = () => {
               </div>
               <div className="text">
                 <p>
-                I love seeking out new challenges and opportunities to improve my skills
-                 am driven by my love of learning and my passion for this field,
+                I love seeking out new challenges and opportunities to improve my skills, and
+                am driven by my love of learning and my passion for this field,
                 which I see as having endless opportunities for growth and development.
 
                 </p>
