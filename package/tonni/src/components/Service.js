@@ -7,32 +7,19 @@ const Service = () => {
             <div className="container">
               <div className="tonni_tm_main_title" data-type="flex">
                 <div className="title">
-                  <span>Our Services</span>
-                  <h3>What Can I Do</h3>
+                  <h3>Professional Skills</h3>
                 </div>
                 <div className="subtitle">
-                  <p>
-                    Fusce sollicitudin eros id ex maximus gravida non vitae
-                    ante. Cras ac mi a dolor suscipit rutrum ut vitae mi.
-                  </p>
                 </div>
               </div>
               <div className="service_list">
                 <ul>
                   <li className="wow fadeInUp" data-wow-duration="1s">
                     <div className="list_inner">
-                      <img className="svg" src="img/svg/layer.svg" alt="" />
-                      <div className="title">
-                        <h3>UI/UX Designer</h3>
-                        <span>Work At Envato</span>
-                      </div>
-                      <div className="text">
-                        <p>
-                          Nunc hendrerit, justo vel ultricieselei fen pretium
-                          leo, ac finibus nulla eros consect viverra neque
-                          rutrum.
-                        </p>
-                      </div>
+                      <img className="svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="" />
+                      <img className="svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="" />
+                      <img className="svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="" />
+                      <img className="svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="" />
                     </div>
                   </li>
                   <li
@@ -41,18 +28,22 @@ const Service = () => {
                     data-wow-delay="0.2s"
                   >
                     <div className="list_inner">
-                      <img className="svg" src="img/svg/design.svg" alt="" />
-                      <div className="title">
-                        <h3>Graphic Design</h3>
-                        <span>Work At Freepic</span>
-                      </div>
-                      <div className="text">
-                        <p>
-                          Nunc hendrerit, justo vel ultricieselei fen pretium
-                          leo, ac finibus nulla eros consect viverra neque
-                          rutrum.
-                        </p>
-                      </div>
+                      <img className='svg' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="" />
+                      <img className='svg' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="" />
+                      <img className="svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="" />
+                    </div>
+                  </li>
+                  <li
+                    className="wow fadeInUp"
+                    data-wow-duration="1s"
+                    data-wow-delay="0.2s"
+                  >
+                    <div className="list_inner">
+                      <img className="svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" alt="" />
+                      <img className="svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="" />
+                      <img className="svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="" />
+                      <img className="svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="" />
+
                     </div>
                   </li>
                   <li
@@ -61,37 +52,9 @@ const Service = () => {
                     data-wow-delay="0.4s"
                   >
                     <div className="list_inner">
-                      <img className="svg" src="img/svg/marketing.svg" alt="" />
                       <div className="title">
-                        <h3>Digital Marketing</h3>
-                        <span>Work At Fiverr</span>
-                      </div>
-                      <div className="text">
-                        <p>
-                          Nunc hendrerit, justo vel ultricieselei fen pretium
-                          leo, ac finibus nulla eros consect viverra neque
-                          rutrum.
-                        </p>
-                      </div>
-                    </div>
-                  </li>
-                  <li
-                    className="wow fadeInUp"
-                    data-wow-duration="1s"
-                    data-wow-delay="0.6s"
-                  >
-                    <div className="list_inner">
-                      <img className="svg" src="img/svg/apps.svg" alt="" />
-                      <div className="title">
-                        <h3>Mobile Application</h3>
-                        <span>Work At Apple</span>
-                      </div>
-                      <div className="text">
-                        <p>
-                          Nunc hendrerit, justo vel ultricieselei fen pretium
-                          leo, ac finibus nulla eros consect viverra neque
-                          rutrum.
-                        </p>
+                        <img className="svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="" />
+
                       </div>
                     </div>
                   </li>
