@@ -7,14 +7,14 @@ const About = () => {
             <div className="left">
               <div className="left_inner">
                 <div className="year">
-                  <h3>7</h3>
+                  <h3>1000</h3>
                   <span className="rounded">
                     <img src="img/about/flower.png" alt="" />
                   </span>
                 </div>
                 <div className="experience">
-                  <h3>+</h3>
-                  <p>years experience</p>
+                  <h3 style={{fontSize:"100px"}}>+</h3>
+                  <p>hours experience</p>
                   <span className="shape">
                     <img src="img/about/dots.png" alt="" />
                   </span>
@@ -26,14 +26,15 @@ const About = () => {
             </div>
             <div className="right">
               <div className="title">
-                <span>Have A Nice Day!</span>
-                <h3>{`I'm`} Looking For UX/UI Designer.</h3>
+                {/* <span>Have A Nice Day!</span> */}
+                <h3>About Me!</h3>
               </div>
               <div className="text">
                 <p>
-                  With 20 years experience as a professional a graphic designer,
-                  I have acquired the skills and knowledge necessary to make
-                  your project a success.
+                I love seeking out new challenges and opportunities to improve my skills
+                 am driven by my love of learning and my passion for this field,
+                which I see as having endless opportunities for growth and development.
+
                 </p>
               </div>
               <div className="dodo_progress">
