@@ -509,14 +509,12 @@ h6 {
   right: 0px;
 }
 .tonni_tm_hero .background .image {
-  position: absolute;
-  top: 0px;
-  bottom: 0px;
-  left: 0px;
-  right: 0px;
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  width: 65%;
+  background-position: right;
+  margin-left: 50vh;
+  margin-top: 8vh;
+  height: 90%;
 }
 .tonni_tm_hero .background .overlay {
   position: absolute;
