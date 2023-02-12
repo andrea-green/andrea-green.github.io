@@ -10,9 +10,9 @@ const Home = () => {
           <div className="content">
             <div className="content_in">
               <h3 className="name">
-                <span>Hi!</span> I'm
+                <span>Hi,</span> I'm
                 <br />
-                Andrea.
+                Andrea!
               </h3>
               <span className="welcome">A full stack software engineer.</span>
               <div className="tonni_tm_button">
