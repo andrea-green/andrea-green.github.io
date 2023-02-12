@@ -37,7 +37,7 @@ const About = () => {
 
                 </p>
               </div>
-              {/* <div className="dodo_progress">
+              <div className="dodo_progress">
                 <ul>
                   <li>
                     <div className="list_inner">
@@ -101,7 +101,7 @@ const About = () => {
                     </div>
                   </li>
                 </ul>
-              </div> */}
+              </div>
             </div>
           </div>
         </div>
