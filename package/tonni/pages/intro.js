@@ -1,5 +1,6 @@
 import Layout from "../src/layout/Layout";
 import Mouse from "../src/layout/Mouse";
+/* eslint-disable @next/next/no-img-element */
 
 const Intro = () => {
   return (

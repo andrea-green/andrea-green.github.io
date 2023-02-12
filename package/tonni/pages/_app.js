@@ -2,6 +2,7 @@ import Head from "next/head";
 import { Fragment } from "react";
 import "../styles/globals.css";
 
+
 const App = ({ Component, pageProps }) => {
   return (
     <Fragment>
