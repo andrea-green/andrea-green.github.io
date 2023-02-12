@@ -24,13 +24,10 @@ const Header = () => {
                 <a href="#about">About</a>
               </li>
               <li>
-                <a href="#service">Service</a>
+                <a href="#service">Professional Skills</a>
               </li>
               <li>
                 <a href="#portfolio">Portfolio</a>
-              </li>
-              <li>
-                <a href="#news">News</a>
               </li>
               <li>
                 <a href="#contact">Contact</a>
@@ -39,13 +36,12 @@ const Header = () => {
             <span className="ccc" />
           </div>
           <div className="follow">
-            <span>Follow Us:</span>
             <ul>
               <li>
                 <a href="#">
                   <img
                     className="svg"
-                    src="img/svg/social/facebook.svg"
+                    src="img/svg/social/github.svg"
                     alt=""
                   />
                 </a>
@@ -54,19 +50,9 @@ const Header = () => {
                 <a href="#">
                   <img
                     className="svg"
-                    src="img/svg/social/twitter.svg"
+                    src="img/svg/social/linkedin.svg"
                     alt=""
                   />
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <img className="svg" src="img/svg/social/vimeo.svg" alt="" />
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <img className="svg" src="img/svg/social/skype.svg" alt="" />
                 </a>
               </li>
             </ul>
