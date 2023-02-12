@@ -7,14 +7,9 @@ const TimeLine = () => {
             <div className="container">
               <div className="tonni_tm_main_title" data-type="flex">
                 <div className="title">
-                  <span>Experience</span>
-                  <h3>Creative Timeline</h3>
+                  <h3>My Experience</h3>
                 </div>
                 <div className="subtitle">
-                  <p>
-                    Fusce sollicitudin eros id ex maximus gravida non vitae
-                    ante. Cras ac mi a dolor suscipit rutrum ut vitae mi.
-                  </p>
                 </div>
               </div>
               <div className="timeline_list">
@@ -25,19 +20,14 @@ const TimeLine = () => {
                       <li>
                         <div className="list_inner">
                           <div className="details">
-                            <img
-                              className="svg"
-                              src="img/svg/social/be.svg"
-                              alt=""
-                            />
                             <div className="title">
-                              <h3>UI/UX Designer</h3>
-                              <span>Senior Designer</span>
+                              <h3>App Academy</h3>
+                              <span>Full Stack Software Engineering</span>
                             </div>
                             <div className="text">
                               <p>
-                                Nunc hendrerit, justo vel ultricieselei fen
-                                pretium leo, ac finibus nulla eros.
+                                1000+ hour immersive full-stack web development intensive
+                                program with less than 3% acceptance rate.
                               </p>
                             </div>
                           </div>
@@ -46,7 +36,7 @@ const TimeLine = () => {
                       <li>
                         <div className="list_inner">
                           <div className="year">
-                            <span>2020-now</span>
+                            <span>2022-2023</span>
                           </div>
                         </div>
                       </li>
@@ -56,7 +46,7 @@ const TimeLine = () => {
                             <img src="img/thumbs/37-25.jpg" alt="" />
                             <div
                               className="main"
-                              data-img-url="img/timeline/1.jpg"
+                              data-img-url="img/timeline/app-academy.png"
                             />
                           </div>
                         </div>
@@ -68,63 +58,9 @@ const TimeLine = () => {
                       <li>
                         <div className="list_inner">
                           <div className="details">
-                            <img
-                              className="svg"
-                              src="img/svg/social/dribbble.svg"
-                              alt=""
-                            />
                             <div className="title">
-                              <h3>Graphic Designer</h3>
-                              <span>Junior Designer</span>
-                            </div>
-                            <div className="text">
-                              <p>
-                                Nunc hendrerit, justo vel ultricieselei fen
-                                pretium leo, ac finibus nulla eros.
-                              </p>
-                            </div>
-                          </div>
-                        </div>
-                      </li>
-                      <li>
-                        <div className="list_inner">
-                          <div className="year">
-                            <span>2018-2020</span>
-                          </div>
-                        </div>
-                      </li>
-                      <li>
-                        <div className="list_inner">
-                          <div className="image">
-                            <img src="img/thumbs/37-25.jpg" alt="" />
-                            <div
-                              className="main"
-                              data-img-url="img/timeline/2.jpg"
-                            />
-                          </div>
-                        </div>
-                      </li>
-                    </ul>
-                  </li>
-                  <li className="wow fadeInUp" data-wow-duration="1s">
-                    <ul className="items">
-                      <li>
-                        <div className="list_inner">
-                          <div className="details">
-                            <img
-                              className="svg"
-                              src="img/svg/social/instagram.svg"
-                              alt=""
-                            />
-                            <div className="title">
-                              <h3>Content Manager</h3>
-                              <span>Sales Manager</span>
-                            </div>
-                            <div className="text">
-                              <p>
-                                Nunc hendrerit, justo vel ultricieselei fen
-                                pretium leo, ac finibus nulla eros.
-                              </p>
+                              <h3>Seattle University</h3>
+                              <span>BS Mathematics, biology minor</span>
                             </div>
                           </div>
                         </div>
@@ -142,8 +78,8 @@ const TimeLine = () => {
                             <img src="img/thumbs/37-25.jpg" alt="" />
                             <div
                               className="main"
-                              data-img-url="img/timeline/3.jpg"
-                            />
+                              data-img-url="img/timeline/Seattle_University_seal.svg"
+                              style={{ width: "67%", height:"100%" }}/>
                           </div>
                         </div>
                       </li>
