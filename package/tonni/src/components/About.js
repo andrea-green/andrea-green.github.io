@@ -26,7 +26,6 @@ const About = () => {
             </div>
             <div className="right">
               <div className="title">
-                {/* <span>Have A Nice Day!</span> */}
                 <h3>About Me!</h3>
               </div>
               <div className="text">
