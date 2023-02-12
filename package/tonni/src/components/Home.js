@@ -3,7 +3,7 @@ const Home = () => {
     <div className="tonni_tm_section" id="home">
       <div className="tonni_tm_hero">
         <div className="background">
-          <div className="image" data-img-url="img/hero/1.jpg" />
+          <div className="image" data-img-url="img/hero/linked-in.png" />
           <div className="overlay" />
         </div>
         <div className="container">
