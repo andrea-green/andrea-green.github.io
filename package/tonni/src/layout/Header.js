@@ -38,7 +38,7 @@ const Header = () => {
           <div className="follow">
             <ul>
               <li>
-                <a href="#">
+                <a href="https://github.com/andrea-green">
                   <img
                     className="svg"
                     src="img/svg/social/github.svg"
@@ -47,7 +47,7 @@ const Header = () => {
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/andrea-green-201146245/">
                   <img
                     className="svg"
                     src="img/svg/social/linkedin.svg"

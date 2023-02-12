@@ -37,7 +37,7 @@ const Contact = () => {
                 <div className="social">
                   <ul>
                     <li>
-                      <a href="#">
+                      <a href="https://www.linkedin.com/in/andrea-green-201146245/">
                         <img
                           className="svg"
                           src="img/svg/social/linkedin-stroke.svg"
@@ -46,7 +46,7 @@ const Contact = () => {
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="https://github.com/andrea-green">
                         <img
                           className="svg"
                           src="img/svg/social/github.svg"
