@@ -1,5 +1,13 @@
 {
+  "homepage":"http://andrea-green.github.io/andrea-green.github.io",
   "dependencies": {
     "react-icons": "^4.7.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  },
+  "scripts":{
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build"
   }
 }
