@@ -1626,7 +1626,7 @@ h6 {
   margin-bottom: 5px;
 }
 .tonni_tm_timeline .timeline_list .title span {
-  color: var(--extra-color);
+  color: black;
   font-weight: 700;
   font-family: var(--font-family-extra);
   text-transform: uppercase;
